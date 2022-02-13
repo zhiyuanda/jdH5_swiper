@@ -5,7 +5,7 @@
 
 ## 效果展示：
 
-![img](https://img-blog.csdnimg.cn/c6529969554045f683aa7b734a0e6f91.gif)
+ ![img](https://img-blog.csdnimg.cn/52da694f6394483cb9ad4ccf83504f1d.gif)
 
 <!-- more -->
 
