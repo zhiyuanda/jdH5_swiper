@@ -15,7 +15,7 @@
 
 ## 网页GitHub地址如下：（若加载较慢建议刷新后耐心等待一会~）
 
-[jdH5_swiper](https://jiang-lijun.github.io/jdH5_swiper/)
+https://zhiyuanda.github.io/jdH5_swiper/
 
 ## 网页代码如下：
 
